@@ -19,12 +19,15 @@
 <img align="left" width="22px" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/javascript.png"/>
 <img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
 <img align="left" width="22px" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/react.png"/>
-<img align="left" width="22px" src="https://img.icons8.com/color/452/redux.png" />
+<img align="left" width="22px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"/>
 <img align="left" width="22px" src="https://img.icons8.com/color/344/tailwindcss.png"/>
+<img align="left" width="22px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"/>
+<img align="left" width="22px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg"/>
+<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/452/redux.png"/>
 <img align="left" width="22px" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/git.png"/>
 <img align="left" width="22px" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"/>
 <img align="left" width="22px" src="https://img.icons8.com/color/344/firebase.png"/>
-<img align="left" width="22px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"/>
 
 
 [Gmail]:tbieu.ung@gmail.com
