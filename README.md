@@ -26,4 +26,4 @@
 <img align="left" width="22px" src="https://img.icons8.com/color/344/firebase.png"/>
 
 [Gmail]:tbieu.ung@gmail.com
-[LinkedIn]: https://www.linkedin.com/in/phieu-dieu-trieu-960b87244/
+[LinkedIn]: https://www.linkedin.com/in/bieu-ung-trieu-960b87244/
