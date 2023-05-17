@@ -1,6 +1,6 @@
-### Hi there 👋, i'm Phieu.
+### Hi there 👋, i'm Bieu.
 
-- My name is Phieu and I am a Self-learning Frontend Developer. I am from Vietnam and my goal is to become a software engineer.
+- My name is Bieu and I am a Self-learning Frontend Developer. I am from Vietnam and my goal is to become a software engineer.
 - My hobbies are listening to music, playing soccer, playing guitar and travelling
 
 ### Connect with me:
@@ -25,5 +25,5 @@
 <img align="left" width="22px" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"/>
 <img align="left" width="22px" src="https://img.icons8.com/color/344/firebase.png"/>
 
-[Gmail]:phieu.yiu@gmail.com
+[Gmail]:tbieu.ung@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/phieu-dieu-trieu-960b87244/
